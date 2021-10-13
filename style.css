@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(https://c.tenor.com/sOfK_YkJ2tcAAAAd/happy-birthday-to-you-fireworks.gif);
+    background-position:center;
+    background-size:2000px;
+}
+#myCanvas
+{
+  border-width: 10px;
+  border-style: ridge; 
+  background-color: aliceblue;
+  border-color: black;
+}
+
